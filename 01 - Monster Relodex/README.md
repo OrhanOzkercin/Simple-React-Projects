@@ -1,4 +1,71 @@
-## 01 - Monster Rolodex
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# Monster Rolodex
 
 This is the introduction project for react. Only used basics of React, nothing so special. On the other hand it's helpfull to understand how components works and how to split component. It's good practice to understand how states effect to components. When is the time components re-render. Also this project shows that React is very much better than vanilla Js when topic is seperate every thing from each other.
 
@@ -8,4 +75,4 @@ Main goal is:
 - Learn render logic
 - Use seperate components together
 
-![Exchange Rate](https://njpizq.dm.files.1drv.com/y4p2nPu1gqEkZSQQc6i5uhJKXiFWSaV6CfGwijvE6QMDUylGomFjCZMDW_a9xITkeSUCtSpP7amXmN6XNvLUIejEUoREv9RBlv87h5WknIK4wOYtCyZJLQ2nKSrTC2qBlPn8Dp2BkAy-SlyCMdo9f__1h8Y5GexmGQokFxiMBdXy6Cqmq-1Z5UPwtR7Wh_QRaNHqdRR2AdZtf4oYtBIpz3KMw/monsterrolodex.gif?psid=1)
+![Exchange Rate](https://media.giphy.com/media/h85lQBdpsO81aTSFP7/source.gif)
