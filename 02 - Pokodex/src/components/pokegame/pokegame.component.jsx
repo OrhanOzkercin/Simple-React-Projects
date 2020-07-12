@@ -31,12 +31,12 @@ const Pokegame = () => {
 			<Pokedex
 				data={team1}
 				exp={team1Score}
-				isWinner={team1Score < team2Score}
+				isWinner={team1Score > team2Score}
 			/>
 			<Pokedex
 				data={team2}
 				exp={team2Score}
-				isWinner={team2Score < team1Score}
+				isWinner={team2Score > team1Score}
 			/>
 		</div>
 	);

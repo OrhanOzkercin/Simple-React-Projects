@@ -4,6 +4,8 @@ import Pokecard from '../pokecard/pokecard.component';
 import './pokedex.styles.scss';
 
 const Pokedex = (props) => {
+	console.log(props.data);
+	console.log(props.isWinner);
 	return (
 		<div className='pokedex'>
 			<h1 className='pokedex__h1'>Pokedex!</h1>
