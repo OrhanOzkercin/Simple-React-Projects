@@ -28,4 +28,4 @@ Main goal is:
 - Use Sass with component styles.
 - Have fun
 
-![Exchange Rate](https://i.ibb.co/zVSVc8L/pokedex.gif)
+<img src="\02 - Pokodex\pokedex.gif" width=800 />
