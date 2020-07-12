@@ -1,0 +1,41 @@
+.pokedex {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	&__data {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: center;
+		width: 100%;
+	}
+
+	&__h1 {
+		color: #204051;
+		font-size: 5rem;
+		text-shadow: 0 0.5rem 1rem rgba($color: #626474cb, $alpha: 0.2);
+		letter-spacing: 0.3rem;
+	}
+
+	&__h3 {
+		color: #5e6f64;
+		font-size: 3rem;
+		text-shadow: 0 0.5rem 1rem rgba($color: #626474cb, $alpha: 0.2);
+		letter-spacing: 0.1rem;
+
+		&--true {
+			color: #1ca13d;
+			font-size: 3rem;
+			text-shadow: 0 0.5rem 1rem rgba($color: #b7efcd, $alpha: 0.2);
+			letter-spacing: 0.1rem;
+		}
+		&--false {
+			color: #e84a5f;
+			font-size: 3rem;
+			text-shadow: 0 0.5rem 1rem rgba($color: #a38569cb, $alpha: 0.2);
+			letter-spacing: 0.1rem;
+		}
+	}
+}
