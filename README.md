@@ -28,4 +28,4 @@ Main goal is:
 - Use Sass with component styles.
 - Have fun
 
-<img src="\02 - Pokodex\pokedex.gif" width=800 />
+<img src="https://i.hizliresim.com/OkVgls.gif" alt="pokedex" border="0">
