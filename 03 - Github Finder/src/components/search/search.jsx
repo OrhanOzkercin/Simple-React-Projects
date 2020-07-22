@@ -21,7 +21,6 @@ const Search = () => {
 			setText('');
 		}
 	};
-
 	return (
 		<div>
 			<form onSubmit={handleSubmit} className='search'>
@@ -49,5 +48,4 @@ const Search = () => {
 		</div>
 	);
 };
-
 export default Search;
