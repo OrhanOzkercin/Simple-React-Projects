@@ -1,9 +1,14 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import UserItem from '../user-item/user-item';
 import Spinner from '../../layout/spinner/spinner';
-import PropTypes from 'prop-types';
 
-const UserCollection = ({ users, isLoading }) => {
+import GithubContext from '../../../context/github/GithubContext';
+
+const UserCollection = () => {
+	const githubContext = useContext(GithubContext);
+
+	const { isLoading, users } = githubContext;
+
 	return isLoading ? (
 		<Spinner />
 	) : (
@@ -13,11 +18,6 @@ const UserCollection = ({ users, isLoading }) => {
 			))}
 		</div>
 	);
-};
-
-UserCollection.propTypes = {
-	users: PropTypes.array.isRequired,
-	isLoading: PropTypes.bool.isRequired,
 };
 
 export default UserCollection;
