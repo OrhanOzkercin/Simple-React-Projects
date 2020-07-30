@@ -43,6 +43,7 @@ If you want to use this project you need to create `env.local` file for API keys
 </br>
 
 <b style='color:#dfdfdf; font-size:18px'>Step 2</b>
+<br>
 Run `npm install` on your terminal
 
 <b style='color:#dfdfdf; '>Main goal is:</b>
@@ -66,6 +67,7 @@ If you want to use this project you need to create `firebaseConfig.js` in fireba
 </br>
 
 <b style='color:#dfdfdf; font-size:18px'>Step 2</b>
+<br>
 Run `npm install` on your terminal
 
 <b style='color:#dfdfdf; '>Main goal is:</b>
@@ -75,4 +77,4 @@ Run `npm install` on your terminal
 - Make real life project
 - Have fun
 
-<img src="https://i.ibb.co/dLSwQfH/instaissh.gif" alt="instaissh">
+<img src="https://i.ibb.co/dLSwQfH/instaissh.gif" width='100%' alt="instaissh">
