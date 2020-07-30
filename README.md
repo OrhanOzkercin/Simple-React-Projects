@@ -9,7 +9,7 @@ This is the introduction project for react. Only used basics of React, nothing s
 - Learn render logic
 - Use seperate components together
 
-<!-- ![Exchange Rate](https://media.giphy.com/media/h85lQBdpsO81aTSFP7/source.gif) -->
+![Exchange Rate](https://media.giphy.com/media/h85lQBdpsO81aTSFP7/source.gif) 
 
 ## 02 - Pokedex
 
@@ -29,7 +29,7 @@ This is another simple React Project. In this project I used file structure that
 - Use Sass with component styles.
 - Have fun
 
-<!-- <img src="https://i.hizliresim.com/OkVgls.gif" alt="pokedex" border="0"> -->
+<img src="https://i.hizliresim.com/OkVgls.gif" alt="pokedex" border="0">
 
 <h2>03 - Github finder </h2>
 In this project I used couple of things. Before explaining project, all project made with React Hooks. First of all I used Github API for data I recived. Also I used Axios for http requests. My file structure is contains 3 main folder which are pages, context and components also I store my assests in assets folder. In component folder I managed all components. Context folder contains file about state management which I used contextApi.
@@ -77,4 +77,4 @@ Run `npm install` on your terminal
 - Make real life project
 - Have fun
 
-<img src="https://i.ibb.co/dLSwQfH/instaissh.gif" width='100%' alt="instaissh">
+<img src="https://i.ibb.co/VQdcvLk/instaissh.gif" alt="instaissh">
